@@ -1,1 +1,1 @@
-Protobuf generated golang files. Refer [darkclown/protos](https://github.com/darkclown97/api) for source protos.
+Protobuf generated golang files. Refer [darkclown/protos](https://github.com/darkclown97/protos) for source protos.
