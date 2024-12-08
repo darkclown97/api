@@ -1,4 +1,3 @@
-from common import user_pb2 as _user_pb2
 from common import messages_pb2 as _messages_pb2
 from google.protobuf.internal import containers as _containers
 from google.protobuf.internal import enum_type_wrapper as _enum_type_wrapper

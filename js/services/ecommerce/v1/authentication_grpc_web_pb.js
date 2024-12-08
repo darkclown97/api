@@ -20,8 +20,6 @@ const grpc = {};
 grpc.web = require('grpc-web');
 
 
-var common_user_pb = require('../../../common/user_pb.js')
-
 var common_messages_pb = require('../../../common/messages_pb.js')
 const proto = {};
 proto.services = {};

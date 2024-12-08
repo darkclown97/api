@@ -12,8 +12,6 @@ var jspb = require('google-protobuf');
 var goog = jspb;
 var global = Function('return this')();
 
-var common_user_pb = require('../../../common/user_pb.js');
-goog.object.extend(proto, common_user_pb);
 var common_messages_pb = require('../../../common/messages_pb.js');
 goog.object.extend(proto, common_messages_pb);
 goog.exportSymbol('proto.services.auth.AuthTokens', null, global);

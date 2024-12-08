@@ -1,6 +1,5 @@
 import * as jspb from 'google-protobuf'
 
-import * as common_user_pb from '../../../common/user_pb';
 import * as common_messages_pb from '../../../common/messages_pb';
 
 
